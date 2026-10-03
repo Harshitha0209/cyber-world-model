@@ -1,0 +1,9 @@
+{
+  "Benign": 0,
+  "Reconnaissance": 1,
+  "Initial Access": 2,
+  "Lateral Movement": 3,
+  "Command and Control": 4,
+  "Exfiltration": 5,
+  "Other": 6
+}
